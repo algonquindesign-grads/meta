@@ -1,5 +1,13 @@
+# Test files
+node_modules
+npm-debug.log
+
 # Jekyll
 _site
+.jekyll-metadata
+
+# Temporary files
+tmp
 
 # Raster graphics
 *.jpg
@@ -38,6 +46,7 @@ _site
 *.ogv
 *.webm
 *.flv
+*.mp3
 *.m4a
 *.f4a
 *.f4b
