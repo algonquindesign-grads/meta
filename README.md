@@ -47,10 +47,6 @@ These files cannot go into the GitHub repositories.
 - Type faces: OTF, WOFF, TTF
 - Video & audio: mov, m4v, ogv, mp3, m4a, ogg
 
-While working on teams, these files should likely be shared in Dropbox.
-
-When launching the website, these types of files will be uploaded to our CDN: Amazon S3.
-
 ---
 
 ## KeyCDN—for images, videos, fonts, etc.
